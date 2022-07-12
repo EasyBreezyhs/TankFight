@@ -138,7 +138,6 @@ public class MyTank extends Element implements Collidable {
 
         return flag;
 
-
     }
 
 

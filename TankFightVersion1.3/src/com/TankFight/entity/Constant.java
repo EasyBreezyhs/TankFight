@@ -19,7 +19,7 @@ public class Constant {
     public static final String TankLeft = "TankFightVersion1.3/static/img/tank_l.gif";
     public static final String TankRight = "TankFightVersion1.3/static/img/tank_r.gif";
 
-    public static final int EnemyTankSpeed = 16;
+    public static final int EnemyTankSpeed = 8;
     public static final String EnemyTankUp = "TankFightVersion1.3/static/img/enemy_1_u.gif";
     public static final String EnemyTankDown = "TankFightVersion1.3/static/img/enemy_1_d.gif";
     public static final String EnemyTankLeft = "TankFightVersion1.3/static/img/enemy_1_l.gif";
